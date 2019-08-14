@@ -44,7 +44,8 @@ module.exports = {
   */
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    'nuxt-element-ui'
   ],
   /*
   ** Axios module configuration
